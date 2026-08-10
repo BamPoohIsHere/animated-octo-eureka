@@ -1,5 +1,3 @@
-# Remedial Final Project
-Armand Marcell JCDSOL-21
 ## Skenario dan Permasalahan Utama
 Mobil99 adalah startup dealer mobil bekas yang beroperasi di Arab Saudi. Permasalahan utama yang ingin diselesaikan adalah bagaimana menentukan listing mobil yang profitable untuk diakuisisi, rekondisi, lalu dijual.
 
