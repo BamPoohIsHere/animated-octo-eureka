@@ -11,7 +11,7 @@ Permasalahan utama yang ingin diselesaikan ada di tahap akusisi mobil bekas. Dik
 Dengan dataset yang berisi mobil - mobil bekas di Arab Saudi (diambil dari Syarah.com), diharapkan dapat membuat algoritma machine learning yang dapat langsung memberi rekomendasi dari listing mobil (dalam Syarah.com) yang "worth-it" untuk diakuisisi sehingga Mobil99 menjadi profitable.
 
 ## Flowchart
-Berikut adalah flowchart dari final project ini:
+Berikut adalah flowchart dari project ini:
 ```mermaid
 flowchart TD
     A[Start] --> B[Data Cleaning/Pre-processing]
